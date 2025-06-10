@@ -3,10 +3,6 @@
 # Description:
        This project is part of the Kaiburr recruitment assessment. The goal is to perform text classification using a machine learning model. The code loads and preprocesses text data, trains a classification model, and performs predictions on new data.
 
-# To Run the Project
-Python 3.11.0
-Jupyter Notebook
-
 # Required Libraries
        pandas
        numpy
