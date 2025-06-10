@@ -17,17 +17,13 @@ Jupyter Notebook
        wordcloud
 # Execution Instructions
 
-Open Task5_Notebook.ipynb in Jupyter 
+Open Kaiburr_Task5_KannanH.ipynb in Jupyter 
 Run all cells sequentially
 
-
-
-📸 Screenshots
-🔹 Data Loading
-🔹 Model Training
-🔹 Prediction Output
-🔹 Wordcloud
-
+# Screenshots
+🔹 PreProcessing
+🔹 Model Evaluation 
+🔹 Result 
 
 All files are publicly available on this GitHub repo.
 
